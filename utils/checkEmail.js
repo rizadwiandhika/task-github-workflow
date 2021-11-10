@@ -1,3 +1,3 @@
-function checkEmail(email) {
-  return email !== null
+function checkEmail() {
+  return true
 }
