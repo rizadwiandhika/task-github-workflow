@@ -1,0 +1,3 @@
+function checkEmail() {
+  return true
+}
